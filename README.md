@@ -12,3 +12,6 @@ Elle traite les chapitres suivants :
 - Collections
 - Exceptions
 - Entrées sorties (Sérialisation et désertisation)
+
+## a class diagram
+![td_comptes](https://user-images.githubusercontent.com/28930742/34910587-6bfac08e-f886-11e7-81ca-6611ea76f7d7.png)
